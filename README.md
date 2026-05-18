@@ -61,21 +61,6 @@ Bilingual CMS (PT/EN/ES), 23 editors, 22k+ LoC. Owned auth, content pipeline, an
 
 ---
 
-### Currently working on
-
-<a href="https://github.com/Hauckjf/fabio-dias-hauck">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Hauckjf&repo=fabio-dias-hauck&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-**Public portfolio platform** — bilingual site, content pipeline (Firestore + Cloud Functions), admin console with multi-stage previews, and four focused technical studies in `satellites/`:
-
-- **Design System** — React + Storybook + Tailwind tokens, multi-package npm publish
-- **CRUDs Multi-Stack** — same Tasks API across Node, FastAPI, Next.js × Postgres, Mongo, Firestore, Redis (with k6 benchmarks)
-- **Free API Integrations** — production-quality clients (GitHub, OpenWeather, Spotify, TMDB, Stripe) with Playwright + health crons
-- **Blog Content Generator** — CLI + worker pipeline for technical writing
-
----
-
 ### Tech I work with
 
 <div align="center">
@@ -125,18 +110,18 @@ Bilingual CMS (PT/EN/ES), 23 editors, 22k+ LoC. Owned auth, content pipeline, an
 
 <div align="center">
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Hauckjf&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://raw.githubusercontent.com/Hauckjf/Apresentacao-Fabio-Dias-Hauck/main/metrics.svg" alt="GitHub metrics" />
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hauckjf/fabio-dias-hauck/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Hauckjf/fabio-dias-hauck/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hauckjf/Apresentacao-Fabio-Dias-Hauck/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Hauckjf/Apresentacao-Fabio-Dias-Hauck/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
+
+<sub>Stats auto-generated daily via GitHub Actions — independent of third-party rate limits.</sub>
 
 ---
 
@@ -153,7 +138,7 @@ Bilingual CMS (PT/EN/ES), 23 editors, 22k+ LoC. Owned auth, content pipeline, an
 
 Available for **senior individual contributor roles** in backend, full stack, and platform/AI engineering — remote-first, async-friendly teams.
 
-&nbsp;&nbsp;✉️&nbsp; [contato@fabiodiashauck.com.br](mailto:contato@fabiodiashauck.com.br)
+&nbsp;&nbsp;✉️&nbsp; [fabiohauck92@gmail.com](mailto:fabiohauck92@gmail.com)
 &nbsp;&nbsp;💼&nbsp; [LinkedIn](https://www.linkedin.com/in/fabio-dias-hauck)
 &nbsp;&nbsp;🌐&nbsp; [fabiodiashauck.com.br](https://fabiodiashauck.com.br)
 
