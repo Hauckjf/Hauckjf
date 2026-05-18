@@ -1,103 +1,54 @@
-<div align="center">
+<h1 align="center">
+  Olá, sou Fábio Dias Hauck 👋
+</h1>
 
-<img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:0EA5E9&height=200&section=header&text=Fabio%20Dias%20Hauck&fontSize=58&fontAlignY=35&fontColor=ffffff&animation=fadeIn&desc=Senior%20Full%20Stack%20Engineer%20%C2%B7%20Software%20Architect%20%C2%B7%20AI-Integrated%20Systems&descSize=16&descAlignY=58" />
+<p align="center"><em>Senior Full Stack Software Engineer | Laravel, React & TypeScript | Microservices, Serverless & AI-Integrated Systems | 6+ Years Across Fintech, GovTech & EdTech</em></p>
 
-<p>
-  <a href="https://fabiodiashauck.com.br"><img src="https://img.shields.io/badge/Portfolio-fabiodiashauck.com.br-7C3AED?style=for-the-badge&logo=safari&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/fabio-dias-hauck"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:fabiohauck92@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Hauckjf&label=Profile%20views&color=7C3AED&style=for-the-badge" />
-</p>
+<p align="center">Building AI-integrated systems for the Brazilian market.</p>
 
-</div>
+<p align="center">📍 Brazil (remote)</p>
 
----
+## 👤 Sobre
 
-### Sobre
+Engenheiro Full Stack Senior focado em sistemas integrados com IA. Especialista em transformar fluxos manuais em produtos que escalam — do CMS ao agente de voz, do CRUD à arquitetura serverless.
 
-Engenheiro full stack com 6+ anos entregando sistemas que aguentam volume real — desde plataformas educacionais com milhares de requisições por minuto até sistemas governamentais com requisitos rígidos de segurança e auditoria. Pós-graduado em Arquitetura de Software e Soluções com IA pela XP Educação.
+Hoje opero o HAUCKS (assistente JARVIS-like com Claude CLI local), o Forge (project development hub) e o Creative Foundry (avaliação de ideias SaaS com 12 agentes paralelos) — todos dentro deste monorepo.
 
-Hoje desenho e construo arquiteturas distribuídas com componentes integrados a IA: orquestração serverless, agentes contextuais e pipelines de dados que automatizam decisões. Foco em produtos que escalam sem perder previsibilidade operacional.
+Disponível para projetos freelance, contratos PJ ou CLT remoto.
 
-Trabalho remoto, em times multidisciplinares. Aberto a conversas sobre arquitetura, IA aplicada e produtos B2B para o mercado brasileiro.
+## 🧰 Stack
 
----
+**Languages** — ![TypeScript](https://img.shields.io/badge/-TypeScript-1f2937?style=flat) ![Python](https://img.shields.io/badge/-Python-1f2937?style=flat) ![PHP](https://img.shields.io/badge/-PHP-1f2937?style=flat)
 
-### Stack principal
+**Frontend** — ![React](https://img.shields.io/badge/-React-1f2937?style=flat) ![Vite](https://img.shields.io/badge/-Vite-1f2937?style=flat) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1f2937?style=flat) ![shadcn/ui](https://img.shields.io/badge/-shadcn_ui-1f2937?style=flat) ![Tauri](https://img.shields.io/badge/-Tauri-1f2937?style=flat)
 
-<div align="center">
+**Backend** — ![FastAPI](https://img.shields.io/badge/-FastAPI-1f2937?style=flat) ![Laravel](https://img.shields.io/badge/-Laravel-1f2937?style=flat) ![Node.js](https://img.shields.io/badge/-Node.js-1f2937?style=flat) ![Firebase Functions](https://img.shields.io/badge/-Firebase_Functions-1f2937?style=flat)
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+**Databases** — ![Firestore](https://img.shields.io/badge/-Firestore-1f2937?style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1f2937?style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-1f2937?style=flat) ![Redis](https://img.shields.io/badge/-Redis-1f2937?style=flat) ![SQLite](https://img.shields.io/badge/-SQLite-1f2937?style=flat)
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**AI / Tooling** — ![Claude CLI](https://img.shields.io/badge/-Claude_CLI-1f2937?style=flat) ![Claude Code Agents](https://img.shields.io/badge/-Claude_Code_Agents-1f2937?style=flat) ![MCP](https://img.shields.io/badge/-MCP-1f2937?style=flat) ![RAG](https://img.shields.io/badge/-RAG-1f2937?style=flat) ![Whisper](https://img.shields.io/badge/-Whisper-1f2937?style=flat)
 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+**Cloud / DevOps** — ![GCP](https://img.shields.io/badge/-GCP-1f2937?style=flat) ![Vercel](https://img.shields.io/badge/-Vercel-1f2937?style=flat) ![Railway](https://img.shields.io/badge/-Railway-1f2937?style=flat) ![Docker](https://img.shields.io/badge/-Docker-1f2937?style=flat) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-1f2937?style=flat)
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+## 📌 Pinned projects
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+_Os repositórios pinados ficam visíveis automaticamente acima desta seção na página do perfil (`github.com/Hauckjf`). Configure-os pela UI do GitHub._
 
-</div>
+## 📊 Métricas
 
----
+![Metrics](https://github-readme-stats.vercel.app/api?username=Hauckjf&show_icons=true&theme=tokyonight&hide_border=true)
 
-### Projeto em destaque
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hauckjf&layout=compact&theme=tokyonight&hide_border=true)
 
-<a href="https://github.com/Hauckjf/fabio-dias-hauck">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hauckjf&repo=fabio-dias-hauck&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-Portfólio público e plataforma pessoal: site, CMS bilíngue, painel admin com pipeline de conteúdo e quatro estudos técnicos em `satellites/` (design system, CRUDs multi-stack, integrações de API gratuitas e gerador de conteúdo).
-
----
-
-### Métricas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hauckjf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=false&rank_icon=github" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hauckjf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Hauckjf&theme=tokyonight&hide_border=true&background=0d1117" />
-
-</div>
-
----
-
-### Atividade
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hauckjf/fabio-dias-hauck/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Hauckjf/fabio-dias-hauck/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
-### Últimas publicações
+## 📝 Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<sub>Feed atualizado automaticamente a partir do portfólio.</sub>
+_Atualizado automaticamente via `gautamkrishnar/blog-post-workflow` a partir de [fabio-dias-hauck.web.app/blog/rss.xml](https://fabio-dias-hauck.web.app/blog/rss.xml)._
 
----
-
-<div align="center">
-
-<img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:7C3AED&height=80&section=footer" />
-
-</div>
+## 📬 Contato
+- ✉️ **Email** — [fabiohauck92@gmail.com](mailto:fabiohauck92@gmail.com)
+- 💼 **LinkedIn** — [https://www.linkedin.com/in/fabio-dias-hauck](https://www.linkedin.com/in/fabio-dias-hauck)
+- 🌐 **Portfólio** — [https://fabiodiashauck.com.br](https://fabiodiashauck.com.br)
+_Disponível para freelance / contrato PJ / CLT remoto._
