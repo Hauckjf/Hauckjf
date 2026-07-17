@@ -137,7 +137,7 @@ Bilingual CMS (PT/EN/ES), 23 editors, 22k+ LoC. Owned auth, content pipeline, an
 
 Available for **senior individual contributor roles** in backend, full stack, and platform/AI engineering — remote-first, async-friendly teams.
 
-&nbsp;&nbsp;✉️&nbsp; [fabiohauck92@gmail.com](mailto:fabiohauck92@gmail.com)
+&nbsp;&nbsp;✉️&nbsp; [contato@fabiodiashauck.com.br](mailto:contato@fabiodiashauck.com.br)
 &nbsp;&nbsp;💼&nbsp; [LinkedIn](https://www.linkedin.com/in/fabio-dias-hauck)
 &nbsp;&nbsp;🌐&nbsp; [fabiodiashauck.com.br](https://fabiodiashauck.com.br)
 
